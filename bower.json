@@ -1,0 +1,8 @@
+{
+  "name": "CCSP",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+	"jquery.easy-pie-chart": "*",
+	"sticky": "*"
+  }
+}
